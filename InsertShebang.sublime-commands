@@ -1,6 +1,6 @@
 [
   // Package commands
-  { "caption": "InsertShebang: bash",
+  { "caption": "Insert Shebang",
     "command": "insert_shebang"
   },
 ]
